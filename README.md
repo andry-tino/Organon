@@ -1,5 +1,5 @@
 # Organon
-CSS ruleset validation via Higher Order Logic (HOL)
+CSS ruleset validation via [Higher Order Logic](https://hol-theorem-prover.org/) ([HOL](https://github.com/HOL-Theorem-Prover/HOL))
 
 # The idea
 The objective is being able to run tests against an HTML/CSS codebase in order to validate the final layout via a mathematical proof driven process modelling the W3C CSS standard.
