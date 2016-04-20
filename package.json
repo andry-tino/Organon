@@ -1,0 +1,31 @@
+{
+  "name": "organon",
+  "author": "Andrea Tino",
+  "homepage": "https://github.com/andry-tino/organon",
+  "version": "0.1.0",
+  "license": "See: LICENSE",
+  "description": "CSS ruleset validation via Higher Order Logic (HOL)",
+  "keywords": [
+    "hol",
+    "css",
+    "validation",
+    "w3c",
+    "standard",
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/andry-tino/organon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andry-tino/organon.git"
+  },
+  "bin": { },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "jake": "latest",
+    "typescript": "latest"
+  }
+}
